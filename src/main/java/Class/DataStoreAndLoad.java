@@ -17,9 +17,6 @@ import java.util.Map;
  */
 public class DataStoreAndLoad {
     
-    List<Map<String, String>> mapList = new ArrayList<>(0);
-    
-    
     public void store(String text) {
  
         String arr[];
